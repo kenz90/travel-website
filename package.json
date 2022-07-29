@@ -2,7 +2,7 @@
   "name": "website-",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+
   "scripts": {
     "build": "parcel build web.html"
   },
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/kenz90/travel-website/issues"
   },
-  "homepage": "https://github.com/kenz90/travel-website#readme"
+  "homepage": "https://github.com/kenz90/travel-website#readme",
+  "dependencies": {
+    "parcel": "^2.6.2"
+  }
 }
