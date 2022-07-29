@@ -1,0 +1,20 @@
+{
+  "name": "website-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "parcel build web.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenz90/travel-website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kenz90/travel-website/issues"
+  },
+  "homepage": "https://github.com/kenz90/travel-website#readme"
+}
